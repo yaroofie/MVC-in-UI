@@ -1,4 +1,8 @@
-# front-end folder structure for js projects
+# MVC pattern in UI
+
+the use of MVC pattern will help you have a solid and clean folder structure 
+in your front-end development and every one will understand your project flow
+better.
 
 ## Models
 
